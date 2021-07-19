@@ -2,6 +2,7 @@
 
 # EXPO LINK https://snack.expo.io/@arabhaya/story-hub-2 
 #THIS RUNS ONLY IN ANDROID 
+
 #AND IGNORE THIS ERROR firebase.initializeApp is not a function
 
 <p align="center">
